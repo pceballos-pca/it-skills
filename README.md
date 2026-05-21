@@ -1,1 +1,1 @@
-# it-skills
+# IT Skills
