@@ -1,2 +1,2 @@
 # GE - IT Skills Portfolio
-![Logo](Branding Kit/Logo.png)
+![Logo](https://github.com/pceballos-pca/it-skills/blob/main/Branding%20Kit/Logo.png)
