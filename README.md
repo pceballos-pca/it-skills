@@ -1,2 +1,2 @@
 # GE - IT Skills Portfolio
-![Logo](logo-url)
+![Logo](Branding Kit/Logo.png)
