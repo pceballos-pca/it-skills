@@ -6,3 +6,4 @@ Patricia Ceballos is a second year student currently pursuing her undergraduate 
 ![Logo](https://github.com/pceballos-pca/it-skills/blob/main/Branding%20Kit/Logo.png)
 ## C.R.A.P. Principles Activity 
 ![Principles Activity](https://github.com/pceballos-pca/it-skills/blob/main/Branding%20Kit/C.R.A.P.%20Principles%20Activity.pdf)
+## 
