@@ -25,3 +25,4 @@ Patricia Ceballos is a second year student currently pursuing her undergraduate 
 
 ## Alternative AI Tasks
 ![Image](https://github.com/pceballos-pca/it-skills/blob/main/Alternative%20AI%20Tasks/Samal%20Eco-Tourism%20Logo.png)
+![Critique & Reports](https://github.com/pceballos-pca/it-skills/blob/main/Alternative%20AI%20Tasks/Alterative%20AI%20Tasks.pdf)
