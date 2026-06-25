@@ -22,3 +22,6 @@ Patricia Ceballos is a second year student currently pursuing her undergraduate 
 
 ## Prototype
 ![Prototype](https://github.com/pceballos-pca/it-skills/blob/main/Media/Prototype.docx)
+
+## Alternative AI Tasks
+![Image](https://github.com/pceballos-pca/it-skills/blob/main/Alternative%20AI%20Tasks/Samal%20Eco-Tourism%20Logo.png)
